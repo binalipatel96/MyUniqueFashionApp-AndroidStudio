@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#c6a3cd</color>
+    <color name="light_purple">#eae5eb</color>
+    <color name="dark_purple">#32076d</color>
+    <color name="footer_color">#f0edf1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

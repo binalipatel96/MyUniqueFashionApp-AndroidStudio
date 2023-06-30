@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine einzigartige Mode-App</string>
+
+    <string-array name="shopping_category">
+        <item>Männer</item>
+        <item>Frau</item>
+        <item>Kinder</item>
+        <item>Schönheit</item>
+    </string-array>
+</resources>

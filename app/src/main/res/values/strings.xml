@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">My Unique Fashion App</string>
+
+    <string-array name="shopping_category">
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kids</item>
+        <item>Beauty</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+</resources>
